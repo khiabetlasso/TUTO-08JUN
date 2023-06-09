@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\LASSO_GONZALEZ.props" />
+</Project>
